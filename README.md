@@ -1,3 +1,3 @@
-## pdf_to_image
+## pdf to image
 ### Requirement:
 pip install pdf2image
